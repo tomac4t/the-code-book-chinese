@@ -1,0 +1,8 @@
+## APPENDIX A The Opening of A Void
+
+by Georges Perec <br>
+translated by Gilbert Adair
+
+Today, by radio, and also on giant hoardings, a rabbi, an admiral notorious for his links to masonry, a trio of cardinals, a trio, too, of insignificant politicians (bought and paid for by a rich and corrupt Anglo-Canadian banking corporation), inform us all of how our country now risks dying of starvation. A rumour, that’s my initial thought as I switch off my radio, a rumour or possibly a hoax. Propaganda, I murmur anxiously—as though, just by saying so, I might allay my doubts—typical politicians’ propaganda. But public opinion gradually absorbs it as a fact. Individuals start strutting around with stout clubs. “Food, glorious food!” is a common cry (occasionally sung to Bart’s music), with ordinary hard-working folk harassing officials, both local and national, and cursing capitalists and captains of industry. Cops shrink from going out on night shift. In Mâcon a mob storms a municipal building. In Rocadamour ruffians rob a hangar full of foodstuffs, pillaging tons of tuna fish, milk and cocoa, as also a vast quantity of corn—all of it, alas, totally unfit for human consumption.
+
+First published in France as La Disparition by Editions Denöel in 1969, and in Great Britain by Harvill in 1994. Copyright © by Editions Denöel 1969; in the English translation © Harvill 1994. Reproduced by permission of the Harvill Press.
