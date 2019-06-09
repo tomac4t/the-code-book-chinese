@@ -53,3 +53,17 @@ M=88=X in ASCII
 Rivest, Shamir 和 Adleman 创造了一种特殊的单向函数，只有拥有特殊信息（即 p和 q 值）的人才能执行其逆运算。通过选取 p 和 q，他们相乘等于 N，得到特定的函数。
 
 为了清楚地阐明要点，我们已经逐字逐句地解释了 RSA 加密消息的过程。在前面的例子中，RSA 有效地解决了单字母替换密码的密钥分发问题。在实际中，加密会使用巨大的二进制数字块进行计算，这使得频率分析成为不可能。
+
+<script type="text/javascript" src="https://tomcat.one/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML" async></script><script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [["$", "$"]],
+    displayMath: [["$$", "$$"]],
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  "HTML-CSS": {
+    preferredFont: "TeX", availableFonts: ["STIX", "TeX"]
+  }
+});
+</script>
