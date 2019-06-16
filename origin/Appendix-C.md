@@ -1,11 +1,5 @@
-## 附录三 它被称为“圣经密码”
+## APPENDIX C The So-Called Bible Code
 
-1997年，迈克尔·德罗斯宁（Michael Drosnin）所著的《圣经密码》（The Bible Code）成为了世界各地的头版头条。德罗斯宁声称在圣经中含有隐藏信息，它可以通过搜索“等距字母序列”（equidistant letter sequences ，EDLSs）找到。 EDLSs 可以在任意文本中选取特定的起始字母，然后每次跳跃特定数目字母的方式找到。比如说，这个段落是以 Michael 的 M 开头，本例中每次跳五个位置。如果我们以每五个字母跳跃，得到了 EDLS 序列 mesahirt……
+In 1997 The Bible Code by Michael Drosnin caused headlines around the world. Drosnin claimed that the Bible contains hidden messages that could be discovered by searching for equidistant letter sequences (EDLSs). An EDLS is found by taking any text, picking a particular starting letter, then jumping forward a set number of letters at a time. So, for example, with this paragraph we could start with the M in Michael and jump, say, five spaces at a time. If we noted every fifth letter, we would generate the EDLS **mesahirt**…
 
-即使这个特别的 EDLS 并不含有意义的单词，但德罗斯宁发现了令人惊讶的一系列圣经 EDLSs，它不只是有意义的单词，甚至是完整的句子。由于圣经是如此之大，这不足以说服怀疑论者：在足够大的文本中，通过调整起始位置和跳跃距离而产生的短语不足为奇。澳大利亚国立大学的布兰登·麦凯（Brendan McKay）试图通过在《白鲸记》（Moby Dick）*搜索 EDLSs 来证明德罗斯宁方法的必然性，结果发现了十三个有关名人暗杀的叙述，他们包括托洛茨基（Trotsky）**，甘地（Gandhi）以及罗伯特·肯尼迪（Robert Kennedy）。
-
-译注：
-* 《白鲸记》是美国作家赫尔曼·梅尔维尔1851年小说，被誉为是美国最伟大的长篇小说之一。
-
-* 列夫·达维多维奇·托洛茨基（1879年11月7日－1940年8月21日）是布尔什维克主要领导人、十月革命指挥者、苏联红军缔造者和第四国际精神领袖，是一名革命家、军事家、政治理论家和作家。 1940年，他被苏联情报单位特务拉蒙·麦卡德用冰镐凿入后脑，第二天不治身亡。
-（摘自维基百科/CC-BY-SA 3.0）
+Although this particular EDLS does not contain any sensible words, Drosnin described the discovery of an astonishing number of biblical EDLSs that not only form sensible words, but result in complete sentences. Skeptics are not impressed because the Bible is so large: In a large enough text, it is hardly surprising that phrases can be made to appear by varying both the starting place and the size of the jump. Brendan McKay at the Australian National University tried to demonstrate the inevitability of Drosnin’s approach by searching for EDLSs in Moby Dick, and discovered thirteen statements pertaining to assassinations of famous people, including Trotsky, Gandhi and Robert Kennedy.
