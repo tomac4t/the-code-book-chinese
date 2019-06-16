@@ -1,13 +1,13 @@
-## 附录四 猪圈密码
+## APPENDIX D The Pigpen Cipher
 
-单字母替换密码（the monoalphabetic substitution cipher）以广泛的形式存在了数个世纪。比如，18世纪共济会成员（Freemasons）使用猪圈密码（the pigpen cipher）保护其记录的私密。这种密码不使用字母替换另一个字母，而使用符号进行替换。
+The monoalphabetic substitution cipher persisted through the centuries in various forms. For example, the pigpen cipher was used by Freemasons in the 1700s to keep their records private. The cipher does not substitute one letter for another; rather, it substitutes each letter for a symbol.
 
 ![](https://tomcat.one/blog/wp-content/uploads/2019/04/the-pigpen-cipher-symbols-1.png)
 
-要加密字母，首先找到它在方格中的位置，然后画出代表那个字母的方格部分。因此：
+To encrypt a letter, find its position in one of the grids, then skecth that portion of the grid to represent that letter. Hence:
 
 ![](https://tomcat.one/blog/wp-content/uploads/2019/04/the-pigpen-cipher-symbols-2.png)
 
-如果你知道密钥，解密猪圈密码很简单。否则，它会断裂成：
+If you know the key, then the pigpen cipher is easy to decipher. If not, then it can be broken by:
 
 ![](https://tomcat.one/blog/wp-content/uploads/2019/04/the-pigpen-cipher-symbols-3.png)
