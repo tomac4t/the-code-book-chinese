@@ -1,20 +1,20 @@
-## 附录五 RSA 的数学原理
+## APPENDIX E The Mathematics of RSA
 
-以下是 RSA 加密和解密机制的简易数学描述。
+What follows is a straightforward mathematical description of the mechanics of RSA encryption and decryption.
 
-1. Alice 选取两个大的质数（prime numbers）p 和 q. 质数应当尽可能的大，但为了简化说明，我们假设 Alice 取 p=17, q=11. 她必须对这两个数字保密。
+1. Alice picks two giant prime numbers, p and q. The primes should be enormous, but for simplicity we assume that Alice chooses p=17, q=11. She must keep these numbers secret.
 
-2. Alice 将它们相乘得到新数字 N. 在本例中 N=187. 现在她选取新数字 e, 在本例中她取 e=7（e 和 (p−1)×(q−1)应当互质（relatively prime），但这是技术性的）。
+2. Alice multiplies them together to get another number, N. In this case N=187. She now picks another number e, and in this case she chooses e=7 (e and (p−1)×(q−1) should be , but this is a technicality).
 
-3. 现在 Alice 可以将 e 和 N 发表在类似电话簿的地方。由于这两个数字是加密的必要条件，它们必须能被想要给 Alice 发送加密消息的人获取到。这两个数字合称公钥（the public key）。（e 也可以是其他人公钥的组成部分，就像它是 Alice 公钥组成部分一样。然而，其他人必须有着不同的 N 值，它取决于 p 和 q的取值。）
+3. Alice can now publish e and N in something akin to a telephone directory. Since these two numbers are necessary for encryption, they must be available to anybody who might want to encrypt a message to Alice. Together these numbers are called the public key. (As well as being part of Alice’s public key, e could also be part of everybody else’s public key. However, everybody must have a different value of N, which depends on their choice of p and q.)
 
-4. 加密的消息首先要转换成数字 M. 比如，一个单词可以转换成 ASCII 二进制数字，二进制数字可以被转换成十进制。根据公式 C=Me (mod N), M 被加密成密文 C.
+4. To encrypt a message, the message must first be converted into a number, M. For example, a word is changed into ASCII binary digits, and the binary digits can be considered as a decimal number. M is then encrypted to give the ciphertext, C, according to the formula C=Me (mod N).
 
-5. 假设 Bob 想要给 Alice 发送一个小玩意：字母 X. 在 ASCII 中它被表示为 1011000, 等于十进制 88. 因此 M=88.
+5. Imagine that Bob wants to send Alice a simple kiss: just the letter X. In ASCII this is represented by 1011000, which is equivalent to 88 in decimal. So, M=88.
 
-6. 要加密这条消息，Bob 查找了 Alice 的公钥，找到 N=187, e=7. 这提供了他给 Alice 发送加密消息的加密等式所需要的信息. 由 M=88, 可知等式 C=887 (mod 187).
+6. To encrypt this message, Bob looks up Alice’s public key, and discovers that N=187 and e=7. This provides him with the encryption formula required to encrypt messages to Alice. With M=88, the formula gives C=887 (mod 187).
 
-7. 直接在计算器计算是很困难的，因为它无法显示如此大的数字。然而，幂模运算（exponentials in modular arithmetic）中有一个技巧，因为我们知道 7=4+2+1,
+7. Working this out directly on a calculator is tough, because the display cannot cope with such large numbers. However, there is a trick for calculating exponentials in modular arithmetic. We know that since 7=4+2+1,
 
 ```
 887 (mod 187)=[884 (mod 187)×882 (mod 187)×881 (mod 187)] (mod 187)
@@ -24,12 +24,12 @@
 887=881×882×884=88×77×132=894432=11 (mod 187)
 ```
 
-现在 Bob 可以发送密文 C=11 给 Alice。
+Bob now sends the ciphertext, C=11, to Alice.
 
-8. 我们已经知道幂模运算是一种单向函数（one-way functions），因此从 C=11反过来恢复到原始消息 M 是很困难的，Eve 无法解密消息。
+8. We know that exponentials in modular arithmetic are one-way functions, so it is very difficult to work backward from C=11 and recover the original message, M. Hence, Eve cannot decipher the message.
 
 
-9. 但 Alice 可以，因为她得到了某个特别的消息：她知道 p 和 q 的取值。她计算一个特别的数字，解密密钥 d, 它也被称为私钥。数字 d 的计算遵从以下等式：
+9. However, Alice can decipher the message because she has some special information: she knows the values of p and q. She calculates a special number, d, the decryption key, otherwise known as her private key. The number d is calculated according to the following formula:
 
 ```
 e×d=1 (mod (p–1)×(q–1))
@@ -38,9 +38,9 @@ e×d=1 (mod (p–1)×(q–1))
 d=23
 ```
 
-（计算 d 的值并不容易，但是辗转相除法（Euclid’s algorithm）能够让 Alice 又快又准地找到 d.）
+(Deducing the value of d is not straightforward, but a technique known as Euclid’s algorithm allows Alice to find d quickly and easily.)
 
-10. 要解密消息，Alice 使用这个等式：
+10. To decrypt the message, Alice uses this formula:
 
 ```
 M=Cd (mod 187)
@@ -50,6 +50,6 @@ M=11×121×55×154 (mod 187)
 M=88=X in ASCII
 ```
 
-Rivest, Shamir 和 Adleman 创造了一种特殊的单向函数，只有拥有特殊信息（即 p和 q 值）的人才能执行其逆运算。通过选取 p 和 q，他们相乘等于 N，得到特定的函数。
+Rivest, Shamir and Adleman had created a special one-way function, one that could be reversed only by somebody with access to privileged information, namely, the values of p and q. Each function can be personalized by choosing p and q, which multiply together to give N.
 
-为了清楚地阐明要点，我们已经逐字逐句地解释了 RSA 加密消息的过程。在前面的例子中，RSA 有效地解决了单字母替换密码的密钥分发问题。在实际中，加密会使用巨大的二进制数字块进行计算，这使得频率分析成为不可能。
+Having described RSA in terms of encrypting a message letter by letter, it is necessary to clarify one particular point. In the previous example, RSA is effectively reduced to monoalphabetic substitution without key distribution. In practice, encryption would proceed according to much larger blocks of binary digits, thus making frequency analysis impossible.
