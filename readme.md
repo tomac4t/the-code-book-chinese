@@ -2,7 +2,7 @@
 
 ## 正文
 
-- [密码学的未来](zh-hans/6.md)
+- [第六章 Pretty Good Privacy](zh-hans/6.md) （未完成）
 
 ## 附录
 
@@ -15,6 +15,10 @@
 - [附录四 猪圈密码](zh-hans/Appendix-D.md)
 
 - [附录五 RSA 的数学原理](zh-hans/Appendix-E.md)
+
+## Download Origin Ebook
+
+[Archive.org: Simon Singh The Code Book (Teenage Version)](https://archive.org/details/SimonSinghTheCodeBookTeenageVersion/page/n3)
 
 ## License
 
