@@ -34,6 +34,8 @@
 
 - [PICTURE CREDITS](/en/Picture-credits.md)
 
+- [ABOUT THE AUTHOR](/en/About-the-author.md)
+
 ## Download Origin Ebook
 
 [Archive.org: Simon Singh The Code Book (Teenage Version)](https://archive.org/details/SimonSinghTheCodeBookTeenageVersion/page/n3)
