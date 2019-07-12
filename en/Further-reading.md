@@ -85,4 +85,4 @@ O’Reilly & Associates, 1995).
 - RSA’s Frequently Asked Questions About Cryptography
   www.rsasecurity.com/rsalabs/faq/
 - Yahoo! Security and Encryption Page
-  www.yahoo.co.uk/Computers*and*Internet/Security*and*Encryption/
+  www.yahoo.co.uk/Computers_and_Internet/Security_and_Encryption/
