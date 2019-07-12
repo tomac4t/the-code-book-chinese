@@ -1,8 +1,8 @@
 # The Code Book: How To Make It, Break It, Hack It, Crack It
 
-- COPYRIGHT
+- [COPYRIGHT](/en/Copyright.md)
 
-- [INTRODUCTION](en/Introduction.md)
+- [INTRODUCTION](/en/Introduction.md)
 
 - CHAPTER 1 The Cipher of Mary Queen of Scots
 
@@ -14,25 +14,25 @@
 
 - CHAPTER 5 Alice and Bob Go Public
 
-- [CHAPTER 6 Pretty Good Privacy](en/6.md)
+- [CHAPTER 6 Pretty Good Privacy](/en/6.md)
 
-- THE CODEBREAKER’S CHALLENGE
+- [THE CODEBREAKER’S CHALLENGE](/en/The-codebreakers-challenge.md)
 
-- [APPENDIX A The Opening of A Void](en/Appendix-A.md)
+- [APPENDIX A The Opening of A Void](/en/Appendix-A.md)
 
-- [APPENDIX B Some Elementary Tips for Frequency Analysis](en/Appendix-B.md)
+- [APPENDIX B Some Elementary Tips for Frequency Analysis](/en/Appendix-B.md)
 
-- [APPENDIX C The So-Called Bible Code](en/Appendix-C.md)
+- [APPENDIX C The So-Called Bible Code](/en/Appendix-C.md)
 
-- [APPENDIX D The Pigpen Cipher](en/Appendix-D.md)
+- [APPENDIX D The Pigpen Cipher](/en/Appendix-D.md)
 
-- [APPENDIX E The Mathematics of RSA](en/Appendix-E.md)
+- [APPENDIX E The Mathematics of RSA](/en/Appendix-E.md)
 
-- ACKNOWLEDGMENTS
+- [ACKNOWLEDGMENTS](/en/Acknowledgments.md)
 
-- FURTHER READING
+- [FURTHER READING](/en/Further-reading.md)
 
-- PICTURE CREDITS
+- [PICTURE CREDITS](/en/Picture-credits.md)
 
 ## Download Origin Ebook
 
