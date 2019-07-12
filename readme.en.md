@@ -1,0 +1,39 @@
+# The Code Book: How To Make It, Break It, Hack It, Crack It
+
+- [INTRODUCTION](en/Introduction.md)
+
+- CHAPTER 1 The Cipher of Mary Queen of Scots
+
+- CHAPTER 2 The Anonymous Codebreaker
+
+- CHAPTER 3 The Mechanization of Secrecy
+
+- CHAPTER 4 The Language Barrier
+
+- CHAPTER 5 Alice and Bob Go Public
+
+- [CHAPTER 6 Pretty Good Privacy](en/6.md)
+
+- THE CODEBREAKER’S CHALLENGE
+
+- [APPENDIX A The Opening of A Void](en/Appendix-A.md)
+
+- [APPENDIX B Some Elementary Tips for Frequency Analysis](en/Appendix-B.md)
+
+- [APPENDIX C The So-Called Bible Code](en/Appendix-C.md)
+
+- [APPENDIX D The Pigpen Cipher](en/Appendix-D.md)
+
+- [APPENDIX E The Mathematics of RSA](en/Appendix-E.md)
+
+## Download Origin Ebook
+
+[Archive.org: Simon Singh The Code Book (Teenage Version)](https://archive.org/details/SimonSinghTheCodeBookTeenageVersion/page/n3)
+
+## License
+
+[Attribution-Noncommercial-No Derivative Works 3.0](LICENSE)
+
+## Language
+
+[Simplified Chinese version](readme.md)
