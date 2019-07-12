@@ -1,3 +1,4 @@
+```
 Published by
 Delacorte Press
 an imprint of
@@ -40,6 +41,7 @@ Book design by Ericka O’Rourke
 March 2002
 
 v1.0
+```
 
 * * *
 
