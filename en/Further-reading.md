@@ -17,7 +17,7 @@ Code Book_ is now available. It contains encrypting and codebreaking tools, a vi
 House, 1989).
   A readable account of the life of Mary Queen of Scots.
 
-## Chapter 2
+### Chapter 2
 - Standage, Tom, _The Victorian Internet_ (London: Weidenfeld &
 Nicolson, 1998).
   The remarkable story of the development of the telegraph. 
