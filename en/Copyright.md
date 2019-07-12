@@ -57,4 +57,4 @@ XICYIQKMHR, VOIR RFH LKRQT
 a few.
 >
 > John Chadwick 
-> _The Decipherment of Linear B_
+> *The Decipherment of Linear B*
