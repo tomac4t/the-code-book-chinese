@@ -56,5 +56,5 @@ XICYIQKMHR, VOIR RFH LKRQT
 > The urge to discover secrets is deeply ingrained in human nature; even the least curious mind is roused by the promise of sharing knowledge withheld from others. Some are fortunate enough to find a job which consists in the solution of mysteries, but most of us are driven to sublimate this urge by the solving of artificial puzzles devised for our entertainment. Detective stories or crossword puzzles cater for the majority; the solution of secret codes may be the pursuit of
 a few.
 >
-> John Chadwick 
+> John Chadwick <br>
 > *The Decipherment of Linear B*
