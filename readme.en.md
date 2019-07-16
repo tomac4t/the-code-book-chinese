@@ -4,7 +4,7 @@
 
 - [INTRODUCTION](/en/Introduction.md)
 
-- CHAPTER 1 The Cipher of Mary Queen of Scots
+- [CHAPTER 1 The Cipher of Mary Queen of Scots](/en/1.md)
 
 - CHAPTER 2 The Anonymous Codebreaker
 
