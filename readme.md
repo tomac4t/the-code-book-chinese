@@ -2,7 +2,7 @@
 
 - [版权页](/zh-hans/Copyright.md)
 
-- 序言
+- [序言](/zh-hans/Introduction.md)
 
 - 第一章 苏格兰玛丽女王的密码
 
