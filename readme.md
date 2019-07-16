@@ -16,7 +16,7 @@
 
 - [第六章 Pretty Good Privacy](/zh-hans/6.md) （未完成）
 
-- 解密挑战
+- [解密挑战](/zh-hans/The-codebreakers-challenge.md)
 
 - [附录一 The Opening of A Void](/zh-hans/Appendix-A.md)
 
