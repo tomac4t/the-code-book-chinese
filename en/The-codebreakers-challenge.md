@@ -48,5 +48,5 @@ QSVQCYXDRWHRVPRHDBPEGHRNQDG
 KEPRWPDTPKEE
 ```
 
-More cryptograms can be found at
-www.simonsingh.com/cryptograms
+More cryptograms can be found at <br>
+[simonsingh.net/cryptography/cryptograms/](https://simonsingh.net/cryptography/cryptograms/)
