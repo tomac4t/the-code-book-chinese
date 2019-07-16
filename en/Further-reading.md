@@ -84,5 +84,5 @@ O’Reilly & Associates, 1995). <br>
   An association that specializes in solving cipher puzzles.
 - RSA’s Frequently Asked Questions About Cryptography <br>
   [www.rsasecurity.com/rsalabs/faq/](http://www.rsasecurity.com/rsalabs/faq/)
-- Yahoo! Security and Encryption Page
+- Yahoo! Security and Encryption Page <br>
   [www.yahoo.co.uk/Computers_and_Internet/Security_and_Encryption/](http://www.yahoo.co.uk/Computers_and_Internet/Security_and_Encryption/)
