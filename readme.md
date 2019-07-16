@@ -1,6 +1,6 @@
 # The Code Book: How To Make It, Break It, Hack It, Crack It
 
-- 版权页
+- [版权页](/zh-hans/Copyright.md)
 
 - 序言
 
