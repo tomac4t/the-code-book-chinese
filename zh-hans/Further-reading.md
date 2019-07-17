@@ -11,7 +11,7 @@
 
 ### 第一章
 - Gaines, Helen Fouché, *Cryptanalysis* (New York: Dover, 1956). <br>
-  .密码及其破译方法的研究。优秀的密码分析介绍，其附录中有许多有用的频率表。
+  密码及其破译方法的研究。优秀的密码分析介绍，其附录中有许多有用的频率表。
 - Fraser, Lady Antonia, *Mary Queen of Scots* (London: Random House, 1989). <br>
   苏格兰玛丽女皇生平的可读性记述。
 
@@ -27,21 +27,21 @@
 - Tuchman, Barbara W., *The Zimmermann Telegram* (New York: Ballantine, 1994). <br>
   已知的一战中最有影响力的破译故事。
 - Kahn, David, *Seizing the Enigma* (London: Arrow, 1996). <br>
-  Kahn’s history of the Battle of the Atlantic and the importance of cryptography. In particular, he dramatically describes the capture of code material from U-boats that helped the codebreakers at Bletchley Park. 大西洋海战的历史和密码学的重要性。特别地，作者戏剧性地描述了从 U 型潜艇捕获密码材料的故事，这大大帮助了布莱切利园的密码破译者。
+  大西洋海战的历史和密码学的重要性。特别地，作者戏剧性地描述了从 U 型潜艇捕获密码材料的故事，这大大帮助了布莱切利园的密码破译者。
 - Smith, Michael, *Station X* (London: Channel 4 Books, 1999). <br>
-  The book based on the British Channel 4 TV series of the same name, containing anecdotes from those who worked at Bletchley Park, otherwise known as Station X.该书根据英国 4 频道同名系列片编写，包含供职于布莱切利园的人的轶事，布莱切利园也被称为 Station X。
+  该书根据英国 4 频道同名系列片编写，包含供职于布莱切利园的人的轶事，布莱切利园也被称为 Station X。
 
 ### 第四章
 - McClain, S., *The Navajo Weapon* (Boulder, CO: Books Beyond Borders, 1994). <br>
   扣人心弦的故事贯穿始终。由一位女士撰写，她长时间与一位开发和使用纳瓦霍语密码的人的访谈。
 - Davies, W. V., *Reading the Past: Egyptian Hieroglyphs* (London: British Museum Press, 1997). <br>
-  Part of an excellent series of introductory texts published by the British Museum. Other authors in the series have written books on cuneiform, Etruscan, Greek inscriptions, Linear B, Maya glyphs and runes.
+  Part of an excellent series of introductory texts published by the British Museum. Other authors in the series have written books on cuneiform, Etruscan, Greek inscriptions, Linear B, Maya glyphs and runes.由大英博物馆出版的一系列介绍性文字。该系列的其他作者也撰写了楔形文字、伊特拉斯坎语、希腊碑文、B 类线型文字、玛雅雕文和如尼文。
 
 ### 第五章
 - Hellman, M. E., “The Mathematics of Public-Key Cryptography,” 《科学美国人》（*Scientific American*）, vol. 241 (August 1979), pp. 130–39. <br>
   公钥密码学多个变形的优秀概述。
 - Schneier, Bruce, 《应用密码学》（*Applied Cryptography*） (New York: John Wiley & Sons, 1996). <br>
-  An excellent survey of modern cryptography. A definitive and authoritative introduction to the subject (advanced).优秀的现代密码学概述。密码学领域最权威的介绍（进阶）。
+  优秀的现代密码学概述。密码学领域最权威的介绍（进阶）。
 
 ### 第六章
 - Garfinkel, Simson, *PGP: Pretty Good Privacy* (Sebastopol, CA: O’Reilly & Associates, 1995). <br>

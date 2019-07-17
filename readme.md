@@ -30,7 +30,7 @@
 
 - 致谢
 
-- 扩展阅读
+- [扩展阅读](./zh-hans/Further-reading.md)
 
 - 图片来源
 
