@@ -35,7 +35,7 @@
 - McClain, S., *The Navajo Weapon* (Boulder, CO: Books Beyond Borders, 1994). <br>
   扣人心弦的故事贯穿始终。由一位女士撰写，她长时间与一位开发和使用纳瓦霍语密码的人的访谈。
 - Davies, W. V., *Reading the Past: Egyptian Hieroglyphs* (London: British Museum Press, 1997). <br>
-  Part of an excellent series of introductory texts published by the British Museum. Other authors in the series have written books on cuneiform, Etruscan, Greek inscriptions, Linear B, Maya glyphs and runes.由大英博物馆出版的一系列介绍性文字。该系列的其他作者也撰写了楔形文字、伊特拉斯坎语、希腊碑文、B 类线型文字、玛雅雕文和如尼文。
+  由大英博物馆出版的一系列介绍性文字。该系列的其他作者也撰写了楔形文字、伊特拉斯坎语、希腊碑文、B 类线型文字、玛雅雕文和如尼文。
 
 ### 第五章
 - Hellman, M. E., “The Mathematics of Public-Key Cryptography,” 《科学美国人》（*Scientific American*）, vol. 241 (August 1979), pp. 130–39. <br>
