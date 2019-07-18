@@ -9,6 +9,7 @@
     * 第四章 语言障碍
     * 第五章 走向台前的 Alice 和 Bob
     * [第六章 Pretty Good Privacy](./zh-hans/6.md)
+* [解密挑战](./zh-hans/The-codebreakers-challenge.md)
 * 附录
     * [附录一 The Opening of A Void](./zh-hans/Appendix-A.md)
     * [附录二 频率分析的一些实用技巧](./zh-hans/Appendix-B.md)
