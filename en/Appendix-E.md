@@ -16,13 +16,11 @@ What follows is a straightforward mathematical description of the mechanics of R
 
 7. Working this out directly on a calculator is tough, because the display cannot cope with such large numbers. However, there is a trick for calculating exponentials in modular arithmetic. We know that since $$7=4+2+1$$,
 
-```
-$$88^{7}\ (mod\ 187) = [88^{4}\ (mod\ 187) \times 88^{2}\ (mod\ 187) \times 88^{1}\ (mod\ 187)]\ (mod\ 187)$$
-$$88^{1} = 88 = 88\ (mod\ 187)$$
-$$88^{2} = 7744 = 77\ (mod\ 187)$$
-$$88^{4} = 59969536 = 132\ (mod\ 187)$$
-$$88^{7} = 88^{1}  \times  88^{2}  \times  88^{4} = 88  \times  77  \times  132 = 894432 = 11\ (mod\ 187)$$
-```
+$$88^{7}\ (mod\ 187) = [88^{4}\ (mod\ 187) \times 88^{2}\ (mod\ 187) \times 88^{1}\ (mod\ 187)]\ (mod\ 187)$$ <br>
+$$88^{1} = 88 = 88\ (mod\ 187)$$ <br>
+$$88^{2} = 7744 = 77\ (mod\ 187)$$ <br>
+$$88^{4} = 59969536 = 132\ (mod\ 187)$$ <br>
+$$88^{7} = 88^{1}  \times  88^{2}  \times  88^{4} = 88  \times  77  \times  132 = 894432 = 11\ (mod\ 187)$$ <br>
 
 Bob now sends the ciphertext, $$C=11$$, to Alice.
 
@@ -31,24 +29,20 @@ Bob now sends the ciphertext, $$C=11$$, to Alice.
 
 9. However, Alice can decipher the message because she has some special information: she knows the values of $$p$$ and $$q$$. She calculates a special number, $$d$$, the decryption key, otherwise known as her private key. The number $$d$$ is calculated according to the following formula:
 
-```
-$$e \times d = 1\ (mod\ (p - 1) \times (q - 1))$$
-$$7 \times d = 1\ (mod\ 16 \times 10)$$
-$$7 \times d = 1\ (mod\ 160)$$
+$$e \times d = 1\ (mod\ (p - 1) \times (q - 1))$$ <br>
+$$7 \times d = 1\ (mod\ 16 \times 10)$$ <br>
+$$7 \times d = 1\ (mod\ 160)$$ <br>
 $$d = 23$$
-```
 
 (Deducing the value of $$d$$ is not straightforward, but a technique known as Euclid’s algorithm allows Alice to find $$d$$ quickly and easily.)
 
 10. To decrypt the message, Alice uses this formula:
 
-```
-$$M = C^{d}\ (mod\ 187)$$
-$$M = 11^{23}\ (mod\ 187)$$
-$$M = [11^{1}\ (mod\ 187) \times 11^{2}\ (mod\ 187) \times 11^{4}\ (mod\ 187) \times 11^{16}\ (mod\ 187)]\ (mod\ 187)$$
-$$M = 11 \times 121 \times 55 \times 154\ (mod\ 187)$$
+$$M = C^{d}\ (mod\ 187)$$ <br>
+$$M = 11^{23}\ (mod\ 187)$$ <br>
+$$M = [11^{1}\ (mod\ 187) \times 11^{2}\ (mod\ 187) \times 11^{4}\ (mod\ 187) \times 11^{16}\ (mod\ 187)]\ (mod\ 187)$$ <br>
+$$M = 11 \times 121 \times 55 \times 154\ (mod\ 187)$$ <br>
 $$M = 88 = X$$ in ASCII
-```
 
 Rivest, Shamir and Adleman had created a special one-way function, one that could be reversed only by somebody with access to privileged information, namely, the values of $$p$$ and $$q$$. Each function can be personalized by choosing $$p$$ and $$q$$, which multiply together to give $$N$$.
 
