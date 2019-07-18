@@ -1,2 +1,2 @@
 * [English](en/)
-* [Simplified Chinese](zh-han/)
+* [简体中文](zh-han/)

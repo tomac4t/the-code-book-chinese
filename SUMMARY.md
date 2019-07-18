@@ -19,3 +19,22 @@
 * [扩展阅读](./zh-hans/Further-reading.md)
 * 图片来源
 * [关于作者](./zh-hans/About-the-author.md)
+* [English version](README.en.md)
+    * [COPYRIGHT](./en/Copyright.md)
+    * [INTRODUCTION](./en/Introduction.md)
+    * [CHAPTER 1 The Cipher of Mary Queen of Scots](./en/1.md)
+    * CHAPTER 2 The Anonymous Codebreaker
+    * CHAPTER 3 The Mechanization of Secrecy
+    * CHAPTER 4 The Language Barrier
+    * CHAPTER 5 Alice and Bob Go Public
+    * [CHAPTER 6 Pretty Good Privacy](./en/6.md)
+    * [THE CODEBREAKER’S CHALLENGE](./en/The-codebreakers-challenge.md)
+    * [APPENDIX A The Opening of A Void](./en/Appendix-A.md)
+    * [APPENDIX B Some Elementary Tips for Frequency Analysis](./en/Appendix-B.md)
+    * [APPENDIX C The So-Called Bible Code](./en/Appendix-C.md)
+    * [APPENDIX D The Pigpen Cipher](./en/Appendix-D.md)
+    * [APPENDIX E The Mathematics of RSA](./en/Appendix-E.md)
+    * [ACKNOWLEDGMENTS](./en/Acknowledgments.md)
+    * [FURTHER READING](./en/Further-reading.md)
+    * [PICTURE CREDITS](./en/Picture-credits.md)
+    * [ABOUT THE AUTHOR](./en/About-the-author.md)

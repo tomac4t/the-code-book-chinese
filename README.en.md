@@ -46,4 +46,4 @@
 
 ## Language
 
-[Simplified Chinese version](readme.md)
+[Simplified Chinese version](README.md)
