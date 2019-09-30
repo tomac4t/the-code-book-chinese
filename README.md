@@ -14,7 +14,7 @@
 
 - 第五章 走向台前的 Alice 和 Bob
 
-- [第六章 Pretty Good Privacy](./zh-hans/6.md) （已完成：33/53, 62%）
+- [第六章 Pretty Good Privacy](./zh-hans/6.md) （已完成：34/53, 64%）
 
 - [解密挑战](./zh-hans/The-codebreakers-challenge.md)
 
