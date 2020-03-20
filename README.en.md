@@ -42,7 +42,11 @@
 
 ## License
 
-[Attribution-Noncommercial-No Derivative Works 3.0](LICENSE)
+Copyright (c) 2001 by Simon Singh. 
+
+Copyright (c) 2019 by Xuxin He <hxxtom@gmail.com> for this simplified Chinese version. 
+
+[Creative Commons Attribution-Noncommercial-No Derivative Works 3.0](LICENSE) 
 
 ## Language
 
