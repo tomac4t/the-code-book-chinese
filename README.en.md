@@ -44,7 +44,7 @@
 
 Copyright (c) 2001 by Simon Singh. 
 
-Copyright (c) 2019 by Xuxin He <hxxtom@gmail.com> for this simplified Chinese version. 
+Copyright (c) 2019-2020 by Xuxin He <hxxtom@gmail.com> for this simplified Chinese version. 
 
 [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0](LICENSE) 
 

@@ -14,7 +14,7 @@
 
 - 第五章 走向台前的 Alice 和 Bob
 
-- [第六章 Pretty Good Privacy](./zh-hans/6.md) （已完成：34/53, 64%）
+- [第六章 Pretty Good Privacy](./zh-hans/6.md) 
 
 - [解密挑战](./zh-hans/The-codebreakers-challenge.md)
 
@@ -28,7 +28,7 @@
 
 - [附录五 RSA 的数学原理](./zh-hans/Appendix-E.md)
 
-- 致谢
+- [致谢](./zh-hans/Acknowledgments.md)
 
 - [扩展阅读](./zh-hans/Further-reading.md)
 
@@ -44,7 +44,7 @@
 
 Copyright (c) 2001 by Simon Singh. 
 
-Copyright (c) 2019 by Xuxin He <hxxtom@gmail.com> for this simplified Chinese version. 
+Copyright (c) 2019-2020 by Xuxin He <hxxtom@gmail.com> for this simplified Chinese version. 
 
 [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0](LICENSE) 
 

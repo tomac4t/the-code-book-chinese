@@ -57,9 +57,9 @@
 - 布莱切利园 <br>
   [www.bletchleypark.org.uk/](https://www.bletchleypark.org.uk/) <br>
   The official Web site, which includes opening times and directions.
-- Enigma emulators <br>
+- Enigma 模拟器 <br>
   [www.ugrad.cs.jhu.edu/~russell/classes/enigma](http://www.ugrad.cs.jhu.edu/~russell/classes/enigma) <br>
-  An excellent emulator that shows how the Enigma machine works.
+  展示 Enigma 机如何运作的优秀模拟器。
 - 菲尔·齐默尔曼和 PGP <br>
   [www.philzimmermann.com](https://www.philzimmermann.com/)
 - 电子前哨基金会 <br>
