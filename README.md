@@ -38,7 +38,7 @@
 
 ## Download Origin Ebook
 
-[Archive.org: Simon Singh The Code Book (Teenage Version)](https://archive.org/details/SimonSinghTheCodeBookTeenageVersion/page/n3)
+[Archive.org: Simon Singh The Code Book (Teenage Version)](https://archive.org/details/SimonSinghTheCodeBookTeenageVersion/)
 
 ## License
 
