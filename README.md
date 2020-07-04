@@ -32,7 +32,7 @@
 
 - [扩展阅读](./zh-hans/Further-reading.md)
 
-- 图片来源
+- [图片来源](./zh-hans/Picture-credits.md)
 
 - [关于作者](./zh-hans/About-the-author.md)
 
