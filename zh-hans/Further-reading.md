@@ -69,7 +69,7 @@
   [www.qubit.org/](http://www.qubit.org)
 - 国家密码博物馆（National Cryptologic Museum） <br>
   [www.nsa.gov:8080/museum/](http://www.nsa.gov:8080/museum/)
-- 美国密码协会（American Cryptogram Association，ACA） <br>
+- 美国密码协会（American Cryptogram Association, ACA） <br>
   [www.und.nodak.edu/org/crypto/crypto/](http://www.und.nodak.edu/org/crypto/crypto/) <br>
   一个专注于解决密码谜题的协会。
 - 有关 RSA 经常被问的问题 <br>
