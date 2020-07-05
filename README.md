@@ -22,7 +22,7 @@
 
 - [附录二 频率分析的一些实用技巧](zh-hans/Appendix-B.md)
 
-- [附录三 它被称为“圣经密码”](zh-hans/Appendix-C.md)
+- [附录三 言过其实的“圣经密码”](zh-hans/Appendix-C.md)
 
 - [附录四 猪圈密码](zh-hans/Appendix-D.md)
 
