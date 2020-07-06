@@ -2,7 +2,7 @@
 
 当我在撰写本书时，我有幸遇到了一些世界上最伟大的仍然在世的编码者（codemakers）和破译者（codebreakers），从为布莱切利园（Bletchley Park）工作的人到那些为开发密码并为信息时代添砖加瓦的人。我想感谢惠特菲尔德·迪菲（Whitfield Diffie）和马丁·赫尔曼（Martin Hellman），当我在风和日丽的加州，他们花费了一些时间向我描述他们的工作。同样地，在我访问多云的切尔滕纳姆（Cheltenham）期间，Clifford Cocks、Malcolm Williamson 和 Richard Walton 给予了我大量的帮助。我尤其要感谢伦敦皇家霍洛威学院信息安全团队（the Information Security Group at Royal Holloway College）的 Fred Piper，他允许我参加信息安全方向的 M.Sc. 课程。
 
-当我在弗吉尼亚州，我有幸由 Peter Viemeister 导览了 Beale 宝藏的线索，他是一位神秘学专家。我也要感谢牛津量子计算中心（Oxford Centre for Quantum Computation）、查尔斯·贝内特（Charles Bennett）及他在 IBM 托马斯·J·沃森实验室的研究团队、Leonard Adleman、Ronald Rivest 和 Jim Gillogly。
+当我在弗吉尼亚州，我有幸由 Peter Viemeister 导览了 Beale 宝藏的线索，他是一位神秘事件专家。我也要感谢牛津量子计算中心（Oxford Centre for Quantum Computation）、查尔斯·贝内特（Charles Bennett）及他在 IBM 托马斯·J·沃森实验室的研究团队、Leonard Adleman、Ronald Rivest 和 Jim Gillogly。
 
 Mohammed Mrayati 博士和 Ibrahim Kadi 博士参与了揭示阿拉伯密码分析早期突破的工作，他们相当友好地向我寄送了相关文献。Cryptologia 期刊也寄送了一些有关阿拉伯密码分析的文章，同时也有其他密码学主题的内容，我想感谢 Brian Winkel 向我寄送几期杂志。
 
