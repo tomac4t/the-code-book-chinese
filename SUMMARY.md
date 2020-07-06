@@ -11,7 +11,7 @@
 * [解密挑战](zh-hans/The-codebreakers-challenge.md)
 * [附录一 The Opening of A Void](zh-hans/Appendix-A.md)
 * [附录二 频率分析的一些实用技巧](zh-hans/Appendix-B.md)
-* [附录三 它被称为“圣经密码”](zh-hans/Appendix-C.md)
+* [附录三 言过其实的“圣经密码”](zh-hans/Appendix-C.md)
 * [附录四 猪圈密码](zh-hans/Appendix-D.md)
 * [附录五 RSA 的数学原理](zh-hans/Appendix-E.md)
 * [致谢](zh-hans/Acknowledgments.md)
