@@ -1,6 +1,6 @@
 ## 附录四 猪圈密码
 
-单字母替换密码（the monoalphabetic substitution cipher）以广泛的形式存在了数个世纪。比如，18世纪共济会成员（Freemasons）使用猪圈密码（the pigpen cipher）保护其记录的私密。这种密码不使用字母替换另一个字母，而使用符号进行替换。
+单字母替换密码（monoalphabetic substitution cipher）以广泛的形式存在了数个世纪。比如，18世纪共济会成员（Freemasons）使用猪圈密码（pigpen cipher）保护其记录的私密。这种密码不使用字母替换另一个字母，而使用符号进行替换。
 
 ![](../images/Appendix-D-the-pigpen-cipher-symbols-1.png)
 
